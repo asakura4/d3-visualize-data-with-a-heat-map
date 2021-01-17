@@ -1,6 +1,6 @@
 # Visualize Data with a Heat Map
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/asakura4/pen/XWjPRov](https://codepen.io/asakura4/pen/XWjPRov).
+A Pen created on CodePen.io. Original URL: [https://codepen.io/asakura4/pen/XWjPRov](https://codepen.io/asakura4/pen/XWjPRov).  
 project refer to https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map
 #### User Story #1: My heat map should have a title with a corresponding id="title".
 #### User Story #2: My heat map should have a description with a corresponding id="description".
