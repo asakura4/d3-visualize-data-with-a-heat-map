@@ -1,9 +1,7 @@
 # Visualize Data with a Heat Map
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/asakura4/pen/XWjPRov](https://codepen.io/asakura4/pen/XWjPRov).
-
 project refer to https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map
-
 #### User Story #1: My heat map should have a title with a corresponding id="title".
 #### User Story #2: My heat map should have a description with a corresponding id="description".
 #### User Story #3: My heat map should have an x-axis with a corresponding id="x-axis".
@@ -22,4 +20,4 @@ project refer to https://www.freecodecamp.org/learn/data-visualization/data-visu
 #### User Story #16: I can mouse over an area and see a tooltip with a corresponding id="tooltip" which displays more information about the area.
 #### User Story #17: My tooltip should have a data-year property that corresponds to the data-year of the active area.
 
-Here is the dataset you will need to complete this project: https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/global-temperature.json
+Here is the dataset to complete this project: https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/global-temperature.json
