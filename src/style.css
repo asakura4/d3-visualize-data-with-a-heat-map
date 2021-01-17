@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  align-item: center;
+  justify-content: center;
+  position: relative;
+
+}
+
+.main {
+   height: 100%;
+   width: 100%;
+ 
+   
+}
+
+.main .header {
+  text-align: center;
+}
+
+.graph-part{
+
+}
+
+#tooltip {
+    background-color: rgba(0,0,0,0.8);
+    border-radius: 6px;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+    position: absolute;
+}
+
+rect:hover {
+  stroke: black;
+  stroke-width: 1;
+}
